@@ -14,3 +14,7 @@ Keys are a,b passed as parameters in the functions
 dependencies : split.py
 
 ___
+
+### bubble_sort_data_visualisation :
+A program to visualize a sorting algorithm, in that case it's the bubble sort, the most simple. But the structure can be used for any sort algorithm by changing the 
+sort function. 
